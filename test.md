@@ -1,0 +1,1 @@
+echo "# Hello\nThis is a test." > test.md
