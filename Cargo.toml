@@ -7,4 +7,5 @@ edition = "2021"
 regex = "1.10.3"       # For pattern matching (headers, links, etc.)
 clap = { version = "4.5.0", features = ["derive"] }  # For CLI argument parsing
 anyhow = "1.0.80"      # For ergonomic error handling
-serde_json = "1.0.114" # (Optional) For JSON output
+serde = {version = "1.0", features = ["derive"]}
+serde_json = "1.0" # (Optional) For JSON output
