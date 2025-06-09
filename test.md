@@ -4,6 +4,7 @@
 
 ` This is strikethrough `
 * This is a pointer
+```Hi this is a code```
 
 ```rust
 // This is a code block
@@ -14,3 +15,9 @@ fn main() {
 ```
 
 May be this should be fine?
+
+# Main Title
+## Section 1
+Some text.
+### Subsection
+## Section 2
